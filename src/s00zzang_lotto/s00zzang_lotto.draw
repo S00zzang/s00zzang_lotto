@@ -1,0 +1,7 @@
+import random
+
+def lotto():
+l = random.access(range(1,46),6)
+
+print(l)
+
